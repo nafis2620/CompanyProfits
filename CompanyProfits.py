@@ -3,6 +3,8 @@
 Created on Sun Dec 31 08:17:13 2017
 
 @author: nafis
+So I used a data-preprocessing template from my Machine Learning Class and the way I approached this method is using simple linear regression to compare what could be expected from a certain price point and what is the actual outcome.
+The reason I used simple linear regression is because I only have indpendent and one dependent variable.
 """
 
 # Simple Linear Regression
